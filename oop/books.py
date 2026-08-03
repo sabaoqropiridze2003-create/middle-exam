@@ -51,7 +51,7 @@ class BookManager:
     def add_book(self, book):
         self.books.append(book)
         self.save_to_file()
-        print("\n✅ Book added successfully!")
+        print("\nBook added successfully!")
 
     def display_all_books(self):
         if not self.books:
@@ -125,7 +125,7 @@ def input_check(prompt):
 
     user_input = input(prompt).strip()
     if user_input.lower() == "exit":
-        print("\n👋 Program terminated by user (exit). Goodbye!")
+        print("\nProgram terminated by user (exit). Goodbye!")
         sys.exit()
     return user_input
 
