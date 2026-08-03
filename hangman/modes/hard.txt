@@ -1,5 +1,5 @@
-objectoriented
-multithreading
-encapsulation
-polymorphism
-asynchronous
+Bookkeeper
+Millennium
+Accommodation
+Possession
+Psychology

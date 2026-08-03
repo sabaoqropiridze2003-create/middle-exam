@@ -1,5 +1,6 @@
-developer
-function
-variable
-terminal
-keyboard
+bridge
+castle
+desert
+jungle
+silver
+magnet

@@ -1,5 +1,6 @@
-python
-code
-game
 cat
-data
+dog
+sun
+hat
+pen
+fish
