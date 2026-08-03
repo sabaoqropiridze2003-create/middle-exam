@@ -1,5 +1,0 @@
-developer
-function
-variable
-terminal
-keyboard

@@ -1,5 +1,0 @@
-objectoriented
-multithreading
-encapsulation
-polymorphism
-asynchronous
